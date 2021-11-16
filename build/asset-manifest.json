@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35ec4703.chunk.css",
+    "main.js": "/static/js/main.8689ca22.chunk.js",
+    "main.js.map": "/static/js/main.8689ca22.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.773dc898.js",
+    "runtime-main.js.map": "/static/js/runtime-main.773dc898.js.map",
+    "static/js/2.52c85ecb.chunk.js": "/static/js/2.52c85ecb.chunk.js",
+    "static/js/2.52c85ecb.chunk.js.map": "/static/js/2.52c85ecb.chunk.js.map",
+    "static/js/3.52ac6b40.chunk.js": "/static/js/3.52ac6b40.chunk.js",
+    "static/js/3.52ac6b40.chunk.js.map": "/static/js/3.52ac6b40.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.35ec4703.chunk.css.map": "/static/css/main.35ec4703.chunk.css.map",
+    "static/js/2.52c85ecb.chunk.js.LICENSE.txt": "/static/js/2.52c85ecb.chunk.js.LICENSE.txt",
+    "static/media/facebook.7c7f9203.png": "/static/media/facebook.7c7f9203.png",
+    "static/media/gmail.d765005c.png": "/static/media/gmail.d765005c.png",
+    "static/media/iconobasquet.59f6a123.png": "/static/media/iconobasquet.59f6a123.png",
+    "static/media/instagram.39a99a2a.png": "/static/media/instagram.39a99a2a.png",
+    "static/media/logo.a9d09cc0.png": "/static/media/logo.a9d09cc0.png",
+    "static/media/twitter.7ec64184.png": "/static/media/twitter.7ec64184.png",
+    "static/media/whatsapp.bb77efc3.png": "/static/media/whatsapp.bb77efc3.png",
+    "static/media/youtube.00dd4d88.png": "/static/media/youtube.00dd4d88.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.773dc898.js",
+    "static/js/2.52c85ecb.chunk.js",
+    "static/css/main.35ec4703.chunk.css",
+    "static/js/main.8689ca22.chunk.js"
+  ]
+}
