@@ -48,7 +48,8 @@ app.use(cors());
 // logger para desarrollo
 app.use(morgan('dev'));
 // api router
-app.use('/api', require('./api/routes/team'));
+app.use('/api/handball', require('./api/routes/handballTeams'));
+app.use('/api/basquet', require('./api/routes/basquetTeams'));
 
 // error handlers (despues de las rutas de la API)
 // 404 not found
